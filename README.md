@@ -1,2 +1,2 @@
 # Data-Mining
-This is a datamining repository containing all the imlemented algorithms
+This is a data mining repository containing all the imlemented algorithms
